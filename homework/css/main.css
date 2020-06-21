@@ -1,0 +1,20 @@
+body {
+    background-image: url("shield2.jpg");
+    background-color: rgb(15, 15, 15);
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: 500;
+    background-repeat:no-repeat;
+    color: aliceblue;
+    max-width: 500px;
+    margin: 70px auto;
+    border: 5px solid;
+    padding: 15px;
+}
+
+input {
+    display: inline-block;
+    margin: 10px;
+}
+  
+
